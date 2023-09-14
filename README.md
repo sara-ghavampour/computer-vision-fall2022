@@ -7,7 +7,7 @@
 
 2. [Spatial Filters](filters): Implementation and Exploration the effects of Box Filter, Median Filter,Sharpening, Blurring, and Noise Removal, Edge Detection, Unsharp Masking
 
-3. [Fourier Transform](frequency_domain): Conducting experiments on images by employing  2D DFT,  inverse DFT using np.fft .
+3. [Fourier Transform](frequency_domain): Conducting experiments on images by employing  2D DFT,  inverse DFT using np.fft
 
 4. [Wavelet Transform](wavelet): Implemanting different image pyramids like Laplacian (difference of Gaussian (DoG)) pyramid - Computing the wavelet transform (with 3-level) - Reconstructing the image from the quantized wavelet coefficients using Haar synthesis filterusing the Haar analysis filters.
 
