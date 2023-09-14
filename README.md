@@ -2,7 +2,6 @@
 ----
 
 
-**Assignments**
 
 1. [Image Fundamentals and Contrast Adjustments](image_fundamentals_and_contrast_djustment): Implementation of Quantization & Interpolation on images, Histogram Equalization, Local Histogram Equalization
 
